@@ -19,7 +19,7 @@
 ###
 # This line will be auto updated with the path to your current install path
 # by WirelessThings Launchpad on clicking the Enable Autostart button
-cd /home/pi/MessageBridge
+cd /home/pi/WirelessThings-LaunchPad/MessageBridge
 ###
 
 case "$1" in
